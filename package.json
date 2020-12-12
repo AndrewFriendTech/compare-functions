@@ -1,0 +1,19 @@
+{
+  "name": "compare-functions",
+  "version": "1.0.0",
+  "description": "Compares an array of functions then returns them as an array of maps",
+  "main": "compare-functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewFriendTech/compare-functions.git"
+  },
+  "author": "Andrew Friend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewFriendTech/compare-functions/issues"
+  },
+  "homepage": "https://github.com/AndrewFriendTech/compare-functions#readme"
+}
